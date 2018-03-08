@@ -1,3 +1,6 @@
-# About OCRx Project
-**OCRx** is a optical character recognition system.
-The source of this project will be available soon!
+# OCRx Project
+##Optical character recognition system.
+The source of this project will be available soon.
+
+**Release:** 05/2018
+**Website:** `focalstudio.me/OCRx`
