@@ -1,6 +1,5 @@
 ![OCRx](https://ocrx.focalstudio.me/logo/OCRx_mini.png)
-# Introducing OCRx,
-# A all-new optical character recognition system.
+# A brand new optical character recognition system.
 
 ![GitHub release](https://img.shields.io/badge/release-v.3.42-red.svg) ![Created](https://img.shields.io/badge/created-may%202018-orange.svg) ![C Standard](https://img.shields.io/badge/c-standard%20c99-blue.svg)
 
