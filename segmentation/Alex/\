@@ -1,0 +1,16 @@
+//rlsa.h
+
+
+#include <stdlib.h>
+#include <SDL.h>
+
+
+
+struct matrixBW
+{
+   size_t height, width;
+   int *data;
+};
+
+
+struct matrixBW convertPicBW(SDL_Surface *img);

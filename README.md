@@ -1,5 +1,8 @@
-![OCRx](https://ocrx.focalstudio.me/img/OCRx.svg)
-# Introducing OCRx, a all-new optical character recognition system.
+![OCRx](https://ocrx.focalstudio.me/logo/OCRx_mini.png)
+# A brand new optical character recognition system.
+
+![GitHub release](https://img.shields.io/badge/release-v.3.42-red.svg) ![Created](https://img.shields.io/badge/created-may%202018-orange.svg) ![C Standard](https://img.shields.io/badge/c-standard%20c99-blue.svg)
+
 
 **OCRx**  (for  _Optical Character Recognition eXperience_) is a  [optical character recognition system](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition)  developed as part of the EPITA 2nd Year Project. This system is powered by an artificial intelligence composed of a neural network system capable of learning millions of characters, such as the Unicode table.
 
@@ -19,7 +22,7 @@ This software extracts a text present in an image (photograph, digitized text, s
         
 
 ## Requirements
-The use of OCRx requires the installation of 3 C libraries.
+OCRx requires the following C libraries to work:
 
 -   [SDL 2.0.7](https://www.libsdl.org/ "SDL")
 -   [GTK+ 3.22](https://www.gtk.org/ "GTK+")
@@ -44,6 +47,6 @@ Character recognition is the central part of OCR, it requires a learning phase d
 To launch the program, please refer to section  _Installation_.
 
 ## Credits
-Made with love by Find3r, El Fantomas, Triguneur and TipChef.
+Made with love by <tt>Find3r</tt>, <tt>El Fantomas</tt>, <tt>Triguneur</tt> and <tt>Tipchef</tt>.
 
 **OCRx** was developed by the [Focal Studio](https://www.focalstudio.me/ "Focal Studio") Project Group in collaboration with [EPITA](http://www.epita.fr/international/ "EPITA"), School of Computer Engineers and member of [IONIS Education Group](https://www.ionis-group.com/ "IONIS Education Group"). For any question, please contact us at [contact@focalstudio.me](mailto:contact@focalstudio.me)
