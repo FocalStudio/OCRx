@@ -1,10 +1,16 @@
 ![OCRx](https://ocrx.focalstudio.me/logo/OCRx_mini.png)
 # A brand new optical character recognition system.
+<<<<<<< HEAD
+
+![GitHub release](https://img.shields.io/badge/release-v.3.42-red.svg) ![Created](https://img.shields.io/badge/created-may%202018-orange.svg) ![C Standard](https://img.shields.io/badge/c-standard%20c99-blue.svg)
+
+=======
+>>>>>>> f23e76db7f4ad2b2b62c56d975cfe3c4925a45df
 
 ![GitHub release](https://img.shields.io/badge/release-v.3.42-red.svg) ![Created](https://img.shields.io/badge/created-may%202018-orange.svg) ![C Standard](https://img.shields.io/badge/c-standard%20c99-blue.svg)
 
 
-**OCRx**  (for  _Optical Character Recognition eXperience_) is a  [optical character recognition system](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition)  developed as part of the EPITA 2nd Year Project. This system is powered by an artificial intelligence composed of a neural network system capable of learning millions of characters, such as the Unicode table.
+**OCRx**  (for  _Optical Character Recognition eXperience_) is a  [optical character recognition system](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition)  developed as part of the EPITA 2nd Year Project. This system is powered by an artificial intelligence composed of a neural network system capable of learning millions of characters, such as the Unicode table.
 
 This software extracts a text present in an image (photograph, digitized text, scanned document) via a segmentation of the image (separation of the different elements constituting the image) and the use of a neural network capable of matching the characters..
 
