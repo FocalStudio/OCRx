@@ -6,7 +6,9 @@
 
 **OCRx**  (for  _Optical Character Recognition eXperience_) is a  [optical character recognition system](https://searchcontentmanagement.techtarget.com/definition/OCR-optical-character-recognition)  developed as part of the EPITA 2nd Year Project. This system is powered by an artificial intelligence composed of a neural network system capable of learning millions of characters, such as the Unicode table.
 
-This software extracts a text present in an image (photograph, digitized text, scanned document) via a segmentation of the image (separation of the different elements constituting the image) and the use of a neural network capable of matching the characters..
+This software extracts a text present in an image (photograph, digitized text, scanned document) via a segmentation of the image (separation of the different elements constituting the image) and the use of a neural network capable of matching the characters.
+
+*Important (november 2019)* : **If errors appear with the lastest version of GTK, please send a ticket with as subject ``[OCRx] <description of the problem>`` to contact@focalstudio.me**
 
 ## Installation
 
@@ -47,6 +49,6 @@ Character recognition is the central part of OCR, it requires a learning phase d
 To launch the program, please refer to section  _Installation_.
 
 ## Credits
-Made with love by <tt>Find3r</tt>, <tt>El Fantomas</tt>, <tt>Triguneur</tt> and <tt>Tipchef</tt>.
+Made with love by <tt>Find3r</tt>, <tt>Le Roi Lapin</tt>, <tt>Triguneur</tt> and <tt>Tipchef</tt>.
 
 **OCRx** was developed by the [Focal Studio](https://www.focalstudio.me/ "Focal Studio") Project Group in collaboration with [EPITA](http://www.epita.fr/international/ "EPITA"), School of Computer Engineers and member of [IONIS Education Group](https://www.ionis-group.com/ "IONIS Education Group"). For any question, please contact us at [contact@focalstudio.me](mailto:contact@focalstudio.me)
